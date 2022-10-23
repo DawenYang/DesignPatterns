@@ -13,4 +13,7 @@
     <SourceRoot Include="/Users/yangdawen/.nuget/packages/" />
     <SourceRoot Include="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nunit/3.13.3/build/NUnit.props" Condition="Exists('$(NuGetPackageRoot)nunit/3.13.3/build/NUnit.props')" />
+  </ImportGroup>
 </Project>

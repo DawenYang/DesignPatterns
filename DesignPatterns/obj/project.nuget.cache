@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AvWCuPAF1nW0CFjvGVMgakn6DzhgIY1HAQ1i44AvP765g43vEckJDwKRg/WABkgAElKMA6B/sa4+WvJriTaQZg==",
+  "dgSpecHash": "gY45xgaVZQSY5D3RqbT+LsHNmBmgq2NMGfaocksqv7ZPzbF3PBZWdotFAXhkpr0kyl9j6beR5pnF34enZMAUFA==",
   "success": true,
   "projectFilePath": "/Users/yangdawen/Desktop/dotNet/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
   "expectedPackageFiles": [
     "/Users/yangdawen/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],
   "logs": []
