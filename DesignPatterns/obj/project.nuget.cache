@@ -1,14 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "gY45xgaVZQSY5D3RqbT+LsHNmBmgq2NMGfaocksqv7ZPzbF3PBZWdotFAXhkpr0kyl9j6beR5pnF34enZMAUFA==",
+  "dgSpecHash": "XFZm0RaFUyWYB1qNbJylILLa+oV4DtDsl8B+x6h05EkdAHW6SSzZtiqk+11aM2mRcP843ZilanenCRClaQM1kQ==",
   "success": true,
   "projectFilePath": "/Users/yangdawen/Desktop/dotNet/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
   "expectedPackageFiles": [
     "/Users/yangdawen/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/dynamitey/2.0.9.136/dynamitey.2.0.9.136.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/impromptuinterface/7.0.1/impromptuinterface.7.0.1.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
-    "/Users/yangdawen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "/Users/yangdawen/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
