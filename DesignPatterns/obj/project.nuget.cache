@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "XFZm0RaFUyWYB1qNbJylILLa+oV4DtDsl8B+x6h05EkdAHW6SSzZtiqk+11aM2mRcP843ZilanenCRClaQM1kQ==",
+  "dgSpecHash": "dKZjIV5S/CUY3IxNCjhZxJMvX+OdAHREBiwc021IefvzevpwfUyQkIVsTknPICjJmPn0DEuUMHCvn1mvEs9rNQ==",
   "success": true,
   "projectFilePath": "/Users/yangdawen/Desktop/dotNet/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
   "expectedPackageFiles": [
     "/Users/yangdawen/.nuget/packages/autofac/6.4.0/autofac.6.4.0.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/dynamitey/2.0.9.136/dynamitey.2.0.9.136.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/impromptuinterface/7.0.1/impromptuinterface.7.0.1.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/yangdawen/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/yangdawen/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
